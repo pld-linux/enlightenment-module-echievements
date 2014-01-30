@@ -2,7 +2,7 @@ Summary:	Echievements module for E17
 Summary(pl.UTF-8):	Moduł Echievements dla E17
 Name:		enlightenment-module-echievements
 Version:	3
-Release:	3
+Release:	4
 License:	BSD
 Group:		Applications
 Source0:	http://download.enlightenment.org/releases/echievements-%{version}.tar.bz2
