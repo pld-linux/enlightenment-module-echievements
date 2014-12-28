@@ -15,7 +15,7 @@ BuildRequires:	edje
 BuildRequires:	edje-devel
 BuildRequires:	enlightenment-devel >= 0.17
 BuildRequires:	etrophy-devel >= 0.5.1
-BuildRequires:	gettext-devel >= 0.14
+BuildRequires:	gettext-tools >= 0.14
 BuildRequires:	libtool
 BuildRequires:	pkgconfig
 %requires_eq_to	enlightenment enlightenment-devel
